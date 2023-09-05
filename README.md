@@ -1,2 +1,3 @@
 # LeetCode-Problems
-LeetCode - Problems and Challanges
+LeetCode - Problems and Solutions
+
