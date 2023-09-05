@@ -1,6 +1,7 @@
 // 412. Fizz Buzz
 // Level: Easy
 // https://leetcode.com/problems/fizz-buzz/
+
 function fizzBuzz(n: number): string[] {
   let zzList: string[] = Array(n);
 
